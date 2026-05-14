@@ -48,19 +48,7 @@ google-clone/
 
 ![Google Clone](src/google_clone.png)
 
----
 
-## How to Run
-
-Simply open the HTML file in browser:
-
-```bash
-google_ui_clone.html
-```
-
-Or use VS Code Live Server extension.
-
----
 
 ## Learning Outcome
 
