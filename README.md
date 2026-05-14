@@ -1,5 +1,9 @@
 # Google Homepage Clone
 
+## 🚀 Live Demo
+
+https://vikash-kherwa.github.io/googe-ui-clone/
+
 A responsive Google homepage clone built using HTML and Tailwind CSS.
 
 This project recreates the UI of Google's search homepage including:
@@ -48,7 +52,7 @@ google-clone/
 
 ![Google Clone](src/google_clone.png)
 
-
+---
 
 ## Learning Outcome
 
